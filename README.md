@@ -5,7 +5,7 @@ I am passionate about building things. My latest projects are social media app a
 
 ## Tech stack I use:
 
-<div style="display:flex; gap:1rem; flex-wrap:wrap;">
+<div style="display:flex; gap:1.5rem; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="42" title="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="42" title="mysql" />
@@ -35,6 +35,8 @@ Twitter but for voice notes - an app that lets users share their opinion using v
 ### [Mappy](https://github.com/salmon-01/mappy.git)
 
 Interactive scratch map on your iPhone. Built front end with **react native** and **expo**. As for the backend **express** and **supabase** was used. Interact with a map provided by **MapBox API** by selecting and highlighting the countries you've visited or want to visit. The dashboard will tell brief statistics about your travels and your dream destinations.
+
+## Past Projects
 
 ### [Atomize Pro](https://github.com/salmon-01/atomize-pro) (Refactor)
 
