@@ -1,9 +1,22 @@
-## Hi, I'm Ilya! 👋
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Website-ilyaono.dev-red?style=flat-square"></a>  
+  <a href=""><img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe"></a>  
+  <a href="https://www.linkedin.com/in/ilya-onoprienko/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ilya.onop@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+<p align="center"> 
+  <a href="https://github.com/salmon-01">
+    <img src="https://github-stats-alpha.vercel.app/api?username=salmon-01">
+  </a>
+</p>
 
-I am happy to see your on my github page.
-I am passionate about building things. My latest projects are social media app and a mobile interactive scratch map app.
+## 👨‍💻 About me 
 
-## Tech stack I use:
+- Fullstack developer.
+- My latest projects are social media app and a mobile interactive scratch map app.
+- I am passionate about building things.
+
+## 🕹️ Technologies
 
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="postgresql" />
@@ -24,7 +37,7 @@ I am passionate about building things. My latest projects are social media app a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="git" />
 </div>
 
-## My projects:
+## 🗂️ My projects
 
 ### [Goss](https://github.com/salmon-01/gossip.git)
 
