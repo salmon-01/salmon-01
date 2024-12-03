@@ -40,7 +40,8 @@
 
 ### [Scalemaster](https://scalemaster.app/)
 
-Scalemaster is a solution for launching your SaaS! Access 150+ launch platforms and submit your product with just one form for automated submission in 12 hours. Coming soon: a curated list of creators for collaboration and to boost your product’s reach!
+<img src="./Public/image.png" width="480" title="Scalemaster demo GIF"/>
+Scalemaster is a solution for launching your SaaS! Access 150+ launch platforms and submit your product with just one form for automated submission in 12 hours.
 
 ### [Goss](https://github.com/salmon-01/gossip.git)
 
