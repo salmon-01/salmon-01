@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://ilyaono.dev"><img src="https://img.shields.io/badge/Website-ilyaono.dev-red?style=flat-square"></a>  
-  <a href="/Public/resume.pdf"><img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe"></a>  
   <a href="https://www.linkedin.com/in/ilya-onoprienko/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:ilya.onop@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -38,6 +37,10 @@
 </div>
 
 ## 🗂️ My projects
+
+### [Scalemaster](https://scalemaster.app/)
+
+Scalemaster is a solution for launching your SaaS! Access 150+ launch platforms and submit your product with just one form for automated submission in 12 hours. Coming soon: a curated list of creators for collaboration and to boost your product’s reach!
 
 ### [Goss](https://github.com/salmon-01/gossip.git)
 
